@@ -33,7 +33,7 @@ Signed-off-by: Some Developer <some-developer@example.com>
 ## Документация
 
 Для просмотра документации и списка доступных команд Git, достаточно воспользоваться данными командами:
-- $ git help
+- ```bash $ git help ```
 - $ git help <command>         (пример git help branch)
 - $ git <command> --help       (пример git branch --help)
 - $ git <command> -h           (пример git branch -h)
