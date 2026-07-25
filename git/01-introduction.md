@@ -5,10 +5,10 @@ Git - это система контроля версий. Она позволя
 
 ## Подтверждение происхождения изменений: CLA и DCO
 
-В open-source проектах для подтверждения права на внесённый код могут использоваться CLA и DCO. CLA - отдельное соглашение между разработчиком и проектом. DCO - подтверждение того, что разработчик имеет право отправить этот код. Если проект использует DCO, к коммиту добавляют параметр -s:
-$ git commit -s
+В open-source проектах для подтверждения права на внесённый код могут использоваться CLA и DCO. CLA - отдельное соглашение между разработчиком и проектом. DCO - подтверждение того, что разработчик имеет право отправить этот код. Если проект использует DCO, к коммиту добавляют параметр `-s`:
+`$ git commit -s`
 Он добавляет строку:
-Signed-off-by: Some Developer <some-developer@example.com>
+`Signed-off-by: Some Developer <some-developer@example.com>`
 
 ## Доступные системы управления версиями
 
@@ -33,10 +33,10 @@ Signed-off-by: Some Developer <some-developer@example.com>
 ## Документация
 
 Для просмотра документации и списка доступных команд Git, достаточно воспользоваться данными командами:
-- ```bash $ git help ```
-- $ git help <command>         (пример git help branch)
-- $ git <command> --help       (пример git branch --help)
-- $ git <command> -h           (пример git branch -h)
+- `$ git help`
+- `$ git help <command>`           (пример git help branch)
+- `$ git <command> --help`         (пример git branch --help)
+- `$ git <command> -h`             (пример git branch -h)
 
 ## Что важно запомнить
 
@@ -46,4 +46,4 @@ Signed-off-by: Some Developer <some-developer@example.com>
 4. DCO и CLA - разные способы подтверждения прав на вклад.
 5. `git commit -s` добавляет строку `Signed-off-by`.
 6. Для Git существуют графические интерфейсы.
-7. git help <command>
+7. `git help <command>`
