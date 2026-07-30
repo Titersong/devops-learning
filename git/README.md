@@ -7,3 +7,5 @@
 4. [Использование Git](04-using_git.md)
 5. [Концепции и архитектура Git](05-architecture.md)
 6. [Управление файлами и контентом (Index)](06-file_operating.md)
+7. [Коммиты](07-commits.md)
+8. []()
