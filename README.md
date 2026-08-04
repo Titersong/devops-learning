@@ -4,11 +4,11 @@
 
 ## Текущий этап
 
-Git
+Linux
 
 ## Пройденные разделы
 
-- [ ] Git
+- [✅] Git
 - [ ] Linux
 - [ ] Networking
 - [ ] Python/Go
