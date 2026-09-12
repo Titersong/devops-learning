@@ -7,4 +7,4 @@
 4. [Графический интерфейс](04-Linux_GUI.md)
 5. [Конфигурация системы с помощью графического интерфейса](05-Configuration_with_GUI.md)
 6. [Общие программы Linux](06-General_programs.md)
-7. [](07-Command-line_operations.md)
+7. [Операции командной строки](07-Command-line_operations.md)
