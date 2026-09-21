@@ -9,3 +9,5 @@
 6. [Общие программы Linux](06-General_programs.md)
 7. [Операции командной строки](07-Command-line_operations.md)
 8. [Поиск документации Linux](08-Linux-documentation.md)
+9. [Процессы](09-Processes.md)
+10. []()
