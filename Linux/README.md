@@ -12,3 +12,4 @@
 9. [Процессы](09-Processes.md)
 10. [Операции с файлами](10-File_operations.md)
 11. [Текстовые редакторы](11-Text_editors.md)
+12. [Среда пользователя](12-User_environment.md)
