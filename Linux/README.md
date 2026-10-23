@@ -13,3 +13,6 @@
 10. [Операции с файлами](10-File_operations.md)
 11. [Текстовые редакторы](11-Text_editors.md)
 12. [Среда пользователя](12-User_environment.md)
+13. [Работа с текстом](13-Working_with_text.md)
+14. [Операции сети](14-Network_operations.md)
+15. []()
